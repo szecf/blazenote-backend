@@ -17,7 +17,7 @@ migrations_dir = "./migrations"
 binding = "AI"
 
 [[r2_buckets]]
-binding = "R2_BUCKET"
+binding = "blazenote"
 bucket_name = "blazenote"
 preview_bucket_name = "dev-blazenote"
 
